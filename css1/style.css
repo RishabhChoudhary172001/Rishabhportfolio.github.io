@@ -1,0 +1,13 @@
+h1{
+    color : red;
+    font-size: 120px;
+}
+.yogurt{
+    background-color: burlywood;
+}
+.broccoli{
+    background-color: greenyellow;
+}
+img:hover{
+    background-color: aquamarine;
+}
